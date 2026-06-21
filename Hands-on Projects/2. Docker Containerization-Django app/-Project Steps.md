@@ -36,5 +36,16 @@
 - This container can be pushed to Docker Hub which is publicly viewable. This executed below.
 ------
 
-#### 9. Pushing Docker Container to Docer Hub
-- 
+### Pushing Docker Container to Docer Hub
+#### 9. Login to DockerHub via terminal
+<img width="806" height="244" alt="dockerhub" src="https://github.com/user-attachments/assets/8896719f-c857-4b07-ab10-50becc90295b" />
+
+----
+#### 10. Tag the Image & Push it to Docker Hub
+<img width="938" height="43" alt="push to dochub" src="https://github.com/user-attachments/assets/8bb36a86-632d-4f98-abf9-d135662646b9" />
+
+----
+#### 11. Verified in Docker Hub
+<img width="1352" height="575" alt="dochunb" src="https://github.com/user-attachments/assets/a5dba33f-4377-4edf-94b8-6dda6ff7b40e" />
+
+----
