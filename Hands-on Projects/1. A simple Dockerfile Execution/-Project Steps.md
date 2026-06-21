@@ -1,3 +1,6 @@
+## A simple Dockerfile Execution
+In this demo, we could see how from dockerfile the image is build, container is pushed to public registry.
+
 ## Project Steps Followed:
 
 #### 1. Create an EC2 instance.
