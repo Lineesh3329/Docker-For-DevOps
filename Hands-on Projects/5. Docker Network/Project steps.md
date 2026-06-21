@@ -20,7 +20,7 @@
 #### 8. Login to `Savings` container and ping `Customer` container.
 <img width="754" height="461" alt="3  container --container" src="https://github.com/user-attachments/assets/3b67969b-16b1-4074-be4e-87eafc0720b1" />
 
--Ping customer cotainer
+- Ping customer cotainer
 
 <img width="601" height="253" alt="4  ping customer from ssavings" src="https://github.com/user-attachments/assets/99c68a51-0bcd-4d2e-967f-ebf690e7ea76" />
 
