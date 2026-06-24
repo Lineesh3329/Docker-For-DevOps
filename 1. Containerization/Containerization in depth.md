@@ -19,7 +19,7 @@ Containerization solves environment inconsistency and dependency issues by provi
 | Difficult to move applications between environments | Easy portability across development, testing, and production |
 | Higher infrastructure overhead | Better resource utilization and efficiency |
 
-## What Was Used Before Containerization?
+## What was used before Containerization?
 
 Before containerization, applications were deployed on **Physical Servers** and **Virtual Machines (VMs)**, which often led to resource overhead, dependency conflicts, and environment inconsistencies.
 
