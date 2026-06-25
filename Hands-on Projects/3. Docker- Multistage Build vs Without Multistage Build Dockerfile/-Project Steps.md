@@ -32,3 +32,6 @@
 <img width="823" height="106" alt="8  images" src="https://github.com/user-attachments/assets/492f724f-0758-4181-b66f-442ea015912b" />\
 
 -----
+### Comparision
+- Here we could confirm that Mullti stage docker file image size(1.47 MB) is lesser than normal docker file image size (249 MB).
+------
