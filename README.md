@@ -8,7 +8,6 @@ This repository helps beginners, DevOps engineers, and cloud enthusiasts underst
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ced62779-9fd6-40a4-afa0-c7730a7448d6" />
 
 -----
-https://chatgpt.com/s/m_6a3e95a4a7bc8191b362af2a530e95e1
 
 
 ## 🎯 Learning Outcomes
