@@ -4,11 +4,9 @@ A comprehensive Docker learning repository covering containerization concepts, D
 
 This repository helps beginners, DevOps engineers, and cloud enthusiasts understand Docker from the ground up through simple explanations, diagrams, workflows, examples, and practical commands.
 
----
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ced62779-9fd6-40a4-afa0-c7730a7448d6" />
-
 -----
-<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/74f095ed-edbe-43d3-b195-c35864858c4f" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1d4ae39a-970e-4c6e-ad22-086f8c2561f1" />
+
 
 -----
 
